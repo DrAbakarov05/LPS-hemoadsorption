@@ -1,17 +1,13 @@
 {
   "font_family": "DejaVu Sans",
-  "width_inches": 12.8,
-  "height_inches": 7.2,
-  "png_dpi": 600,
-  "text_color": "#172C42",
-  "muted_color": "#64768A",
-  "line_color": "#087E8B",
-  "ribbon_color": "#168D9A",
-  "ribbon_alpha": 0.13,
-  "covid_color": "#C94848",
-  "covid_fill_alpha": 0.055,
-  "line_width": 3.0,
-  "title": "Смерти, связанные с сепсисом",
-  "subtitle": "Мир · 1990–2021 · Все возрасты · Инфекционные + неинфекционные первоначальные причины",
-  "y_max_millions": 25
+  "plot_frame_px": [96, 180, 1088, 360],
+  "axis_max": 25,
+  "line_width": 3.5,
+  "count_color": "#087F83",
+  "rate_color": "#2F5FCD",
+  "covid_color": "#CE4848",
+  "text_color": "#20374C",
+  "muted_color": "#65768A",
+  "axis_color": "#8B9BAD",
+  "grid_color": "#DDE4EB"
 }

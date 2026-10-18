@@ -1,0 +1,2198 @@
+{
+  "canvas": [
+    1280,
+    720
+  ],
+  "style": {
+    "font_family": "DejaVu Sans",
+    "plot_frame_px": [
+      96,
+      180,
+      1088,
+      360
+    ],
+    "axis_max": 25,
+    "line_width": 3.5,
+    "count_color": "#087F83",
+    "rate_color": "#2F5FCD",
+    "covid_color": "#CE4848",
+    "text_color": "#20374C",
+    "muted_color": "#65768A",
+    "axis_color": "#8B9BAD",
+    "grid_color": "#DDE4EB"
+  },
+  "core": [
+    {
+      "kind": "line",
+      "name": "grid_0",
+      "points": [
+        [
+          96,
+          540.0
+        ],
+        [
+          1184,
+          540.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_0",
+      "text": "0",
+      "left": 48,
+      "top": 528.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_0",
+      "text": "0",
+      "left": 1197,
+      "top": 528.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "grid_5",
+      "points": [
+        [
+          96,
+          468.0
+        ],
+        [
+          1184,
+          468.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_5",
+      "text": "5",
+      "left": 48,
+      "top": 456.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_5",
+      "text": "5",
+      "left": 1197,
+      "top": 456.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "grid_10",
+      "points": [
+        [
+          96,
+          396.0
+        ],
+        [
+          1184,
+          396.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_10",
+      "text": "10",
+      "left": 48,
+      "top": 384.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_10",
+      "text": "10",
+      "left": 1197,
+      "top": 384.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "grid_15",
+      "points": [
+        [
+          96,
+          324.0
+        ],
+        [
+          1184,
+          324.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_15",
+      "text": "15",
+      "left": 48,
+      "top": 312.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_15",
+      "text": "15",
+      "left": 1197,
+      "top": 312.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "grid_20",
+      "points": [
+        [
+          96,
+          252.0
+        ],
+        [
+          1184,
+          252.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_20",
+      "text": "20",
+      "left": 48,
+      "top": 240.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_20",
+      "text": "20",
+      "left": 1197,
+      "top": 240.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "grid_25",
+      "points": [
+        [
+          96,
+          180.0
+        ],
+        [
+          1184,
+          180.0
+        ]
+      ],
+      "color": "#DDE4EB",
+      "width": 0.65,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "left_tick_25",
+      "text": "25",
+      "left": 48,
+      "top": 168.0,
+      "width": 36,
+      "height": 25,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "right_tick_25",
+      "text": "25",
+      "left": 1197,
+      "top": 168.0,
+      "width": 38,
+      "height": 25,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "left_axis",
+      "points": [
+        [
+          96,
+          180
+        ],
+        [
+          96,
+          540
+        ]
+      ],
+      "color": "#087F83",
+      "width": 1,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "right_axis",
+      "points": [
+        [
+          1184,
+          180
+        ],
+        [
+          1184,
+          540
+        ]
+      ],
+      "color": "#2F5FCD",
+      "width": 1,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "time_axis",
+      "points": [
+        [
+          96,
+          540
+        ],
+        [
+          1184,
+          540
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 1,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1990",
+      "points": [
+        [
+          96.0,
+          540
+        ],
+        [
+          96.0,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_1990",
+      "text": "1990",
+      "left": 71.0,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1991",
+      "points": [
+        [
+          114.13333333333333,
+          540
+        ],
+        [
+          114.13333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1992",
+      "points": [
+        [
+          132.26666666666665,
+          540
+        ],
+        [
+          132.26666666666665,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1993",
+      "points": [
+        [
+          150.4,
+          540
+        ],
+        [
+          150.4,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1994",
+      "points": [
+        [
+          168.53333333333333,
+          540
+        ],
+        [
+          168.53333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1995",
+      "points": [
+        [
+          186.66666666666666,
+          540
+        ],
+        [
+          186.66666666666666,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_1995",
+      "text": "1995",
+      "left": 161.66666666666666,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1996",
+      "points": [
+        [
+          204.8,
+          540
+        ],
+        [
+          204.8,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1997",
+      "points": [
+        [
+          222.93333333333334,
+          540
+        ],
+        [
+          222.93333333333334,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1998",
+      "points": [
+        [
+          241.06666666666666,
+          540
+        ],
+        [
+          241.06666666666666,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_1999",
+      "points": [
+        [
+          259.2,
+          540
+        ],
+        [
+          259.2,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2000",
+      "points": [
+        [
+          277.3333333333333,
+          540
+        ],
+        [
+          277.3333333333333,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2000",
+      "text": "2000",
+      "left": 252.33333333333331,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2001",
+      "points": [
+        [
+          295.46666666666664,
+          540
+        ],
+        [
+          295.46666666666664,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2002",
+      "points": [
+        [
+          313.6,
+          540
+        ],
+        [
+          313.6,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2003",
+      "points": [
+        [
+          331.73333333333335,
+          540
+        ],
+        [
+          331.73333333333335,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2004",
+      "points": [
+        [
+          349.8666666666667,
+          540
+        ],
+        [
+          349.8666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2005",
+      "points": [
+        [
+          368.0,
+          540
+        ],
+        [
+          368.0,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2005",
+      "text": "2005",
+      "left": 343.0,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2006",
+      "points": [
+        [
+          386.1333333333333,
+          540
+        ],
+        [
+          386.1333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2007",
+      "points": [
+        [
+          404.26666666666665,
+          540
+        ],
+        [
+          404.26666666666665,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2008",
+      "points": [
+        [
+          422.4,
+          540
+        ],
+        [
+          422.4,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2009",
+      "points": [
+        [
+          440.5333333333333,
+          540
+        ],
+        [
+          440.5333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2010",
+      "points": [
+        [
+          458.66666666666663,
+          540
+        ],
+        [
+          458.66666666666663,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2010",
+      "text": "2010",
+      "left": 433.66666666666663,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2011",
+      "points": [
+        [
+          476.79999999999995,
+          540
+        ],
+        [
+          476.79999999999995,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2012",
+      "points": [
+        [
+          494.9333333333333,
+          540
+        ],
+        [
+          494.9333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2013",
+      "points": [
+        [
+          513.0666666666667,
+          540
+        ],
+        [
+          513.0666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2014",
+      "points": [
+        [
+          531.2,
+          540
+        ],
+        [
+          531.2,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2015",
+      "points": [
+        [
+          549.3333333333334,
+          540
+        ],
+        [
+          549.3333333333334,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2015",
+      "text": "2015",
+      "left": 524.3333333333334,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2016",
+      "points": [
+        [
+          567.4666666666667,
+          540
+        ],
+        [
+          567.4666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2017",
+      "points": [
+        [
+          585.6,
+          540
+        ],
+        [
+          585.6,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2018",
+      "points": [
+        [
+          603.7333333333333,
+          540
+        ],
+        [
+          603.7333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2019",
+      "points": [
+        [
+          621.8666666666667,
+          540
+        ],
+        [
+          621.8666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2020",
+      "points": [
+        [
+          640.0,
+          540
+        ],
+        [
+          640.0,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2020",
+      "text": "2020",
+      "left": 615.0,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2021",
+      "points": [
+        [
+          658.1333333333334,
+          540
+        ],
+        [
+          658.1333333333334,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2022",
+      "points": [
+        [
+          676.2666666666667,
+          540
+        ],
+        [
+          676.2666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2023",
+      "points": [
+        [
+          694.4000000000001,
+          540
+        ],
+        [
+          694.4000000000001,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2024",
+      "points": [
+        [
+          712.5333333333333,
+          540
+        ],
+        [
+          712.5333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2025",
+      "points": [
+        [
+          730.6666666666667,
+          540
+        ],
+        [
+          730.6666666666667,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2025",
+      "text": "2025",
+      "left": 705.6666666666667,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2026",
+      "points": [
+        [
+          748.8,
+          540
+        ],
+        [
+          748.8,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2027",
+      "points": [
+        [
+          766.9333333333334,
+          540
+        ],
+        [
+          766.9333333333334,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2028",
+      "points": [
+        [
+          785.0666666666666,
+          540
+        ],
+        [
+          785.0666666666666,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2029",
+      "points": [
+        [
+          803.2,
+          540
+        ],
+        [
+          803.2,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2030",
+      "points": [
+        [
+          821.3333333333333,
+          540
+        ],
+        [
+          821.3333333333333,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2030",
+      "text": "2030",
+      "left": 796.3333333333333,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2031",
+      "points": [
+        [
+          839.4666666666667,
+          540
+        ],
+        [
+          839.4666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2032",
+      "points": [
+        [
+          857.5999999999999,
+          540
+        ],
+        [
+          857.5999999999999,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2033",
+      "points": [
+        [
+          875.7333333333333,
+          540
+        ],
+        [
+          875.7333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2034",
+      "points": [
+        [
+          893.8666666666666,
+          540
+        ],
+        [
+          893.8666666666666,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2035",
+      "points": [
+        [
+          912.0,
+          540
+        ],
+        [
+          912.0,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2035",
+      "text": "2035",
+      "left": 887.0,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2036",
+      "points": [
+        [
+          930.1333333333334,
+          540
+        ],
+        [
+          930.1333333333334,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2037",
+      "points": [
+        [
+          948.2666666666667,
+          540
+        ],
+        [
+          948.2666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2038",
+      "points": [
+        [
+          966.4000000000001,
+          540
+        ],
+        [
+          966.4000000000001,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2039",
+      "points": [
+        [
+          984.5333333333333,
+          540
+        ],
+        [
+          984.5333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2040",
+      "points": [
+        [
+          1002.6666666666667,
+          540
+        ],
+        [
+          1002.6666666666667,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2040",
+      "text": "2040",
+      "left": 977.6666666666667,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2041",
+      "points": [
+        [
+          1020.8,
+          540
+        ],
+        [
+          1020.8,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2042",
+      "points": [
+        [
+          1038.9333333333334,
+          540
+        ],
+        [
+          1038.9333333333334,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2043",
+      "points": [
+        [
+          1057.0666666666666,
+          540
+        ],
+        [
+          1057.0666666666666,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2044",
+      "points": [
+        [
+          1075.2,
+          540
+        ],
+        [
+          1075.2,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2045",
+      "points": [
+        [
+          1093.3333333333333,
+          540
+        ],
+        [
+          1093.3333333333333,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2045",
+      "text": "2045",
+      "left": 1068.3333333333333,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2046",
+      "points": [
+        [
+          1111.4666666666667,
+          540
+        ],
+        [
+          1111.4666666666667,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2047",
+      "points": [
+        [
+          1129.6,
+          540
+        ],
+        [
+          1129.6,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2048",
+      "points": [
+        [
+          1147.7333333333333,
+          540
+        ],
+        [
+          1147.7333333333333,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2049",
+      "points": [
+        [
+          1165.8666666666666,
+          540
+        ],
+        [
+          1165.8666666666666,
+          543
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "year_tick_2050",
+      "points": [
+        [
+          1184.0,
+          540
+        ],
+        [
+          1184.0,
+          547
+        ]
+      ],
+      "color": "#8B9BAD",
+      "width": 0.8,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "year_label_2050",
+      "text": "2050",
+      "left": 1159.0,
+      "top": 554,
+      "width": 50,
+      "height": 26,
+      "size": 16,
+      "color": "#20374C",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "kind": "rect",
+      "name": "covid_2020_2021",
+      "left": 630.9333333333333,
+      "top": 180,
+      "width": 36.266666666666765,
+      "height": 360,
+      "color": "#CE4848",
+      "line_width": 1.6,
+      "fill": "none"
+    },
+    {
+      "kind": "line",
+      "name": "GBD_total_deaths_1990_2021",
+      "points": [
+        [
+          96.0,
+          302.4
+        ],
+        [
+          114.13333333333333,
+          302.4
+        ],
+        [
+          132.26666666666665,
+          302.4
+        ],
+        [
+          150.4,
+          300.96
+        ],
+        [
+          168.53333333333333,
+          298.08
+        ],
+        [
+          186.66666666666666,
+          299.52000000000004
+        ],
+        [
+          204.8,
+          299.52000000000004
+        ],
+        [
+          222.93333333333334,
+          299.52000000000004
+        ],
+        [
+          241.06666666666666,
+          299.52000000000004
+        ],
+        [
+          259.2,
+          299.52000000000004
+        ],
+        [
+          277.3333333333333,
+          299.52000000000004
+        ],
+        [
+          295.46666666666664,
+          300.96
+        ],
+        [
+          313.6,
+          300.96
+        ],
+        [
+          331.73333333333335,
+          300.96
+        ],
+        [
+          349.8666666666667,
+          303.84000000000003
+        ],
+        [
+          368.0,
+          305.28
+        ],
+        [
+          386.1333333333333,
+          309.6
+        ],
+        [
+          404.26666666666665,
+          312.48
+        ],
+        [
+          422.4,
+          313.91999999999996
+        ],
+        [
+          440.5333333333333,
+          318.24
+        ],
+        [
+          458.66666666666663,
+          321.12
+        ],
+        [
+          476.79999999999995,
+          322.56
+        ],
+        [
+          494.9333333333333,
+          326.88
+        ],
+        [
+          513.0666666666667,
+          328.32000000000005
+        ],
+        [
+          531.2,
+          329.76
+        ],
+        [
+          549.3333333333334,
+          331.20000000000005
+        ],
+        [
+          567.4666666666667,
+          332.64
+        ],
+        [
+          585.6,
+          334.08
+        ],
+        [
+          603.7333333333333,
+          335.52
+        ],
+        [
+          621.8666666666667,
+          336.96000000000004
+        ],
+        [
+          640.0,
+          273.6
+        ],
+        [
+          658.1333333333334,
+          231.84
+        ]
+      ],
+      "color": "#087F83",
+      "width": 3.5,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "ASR_historical_2000_2023",
+      "points": [
+        [
+          277.3333333333333,
+          408.24
+        ],
+        [
+          295.46666666666664,
+          400.32000000000005
+        ],
+        [
+          313.6,
+          393.12
+        ],
+        [
+          331.73333333333335,
+          400.32000000000005
+        ],
+        [
+          349.8666666666667,
+          398.88
+        ],
+        [
+          368.0,
+          390.24
+        ],
+        [
+          386.1333333333333,
+          390.24
+        ],
+        [
+          404.26666666666665,
+          388.8
+        ],
+        [
+          422.4,
+          387.36
+        ],
+        [
+          440.5333333333333,
+          387.36
+        ],
+        [
+          458.66666666666663,
+          387.36
+        ],
+        [
+          476.79999999999995,
+          383.04
+        ],
+        [
+          494.9333333333333,
+          381.6
+        ],
+        [
+          513.0666666666667,
+          380.16
+        ],
+        [
+          531.2,
+          375.84000000000003
+        ],
+        [
+          549.3333333333334,
+          374.4
+        ],
+        [
+          567.4666666666667,
+          388.8
+        ],
+        [
+          585.6,
+          377.28000000000003
+        ],
+        [
+          603.7333333333333,
+          377.28000000000003
+        ],
+        [
+          621.8666666666667,
+          375.84000000000003
+        ],
+        [
+          640.0,
+          390.24
+        ],
+        [
+          658.1333333333334,
+          360.0
+        ],
+        [
+          676.2666666666667,
+          352.79999999999995
+        ],
+        [
+          694.4000000000001,
+          356.11199999999997
+        ]
+      ],
+      "color": "#2F5FCD",
+      "width": 3.5,
+      "dash": false
+    },
+    {
+      "kind": "line",
+      "name": "ASR_forecast_2024_2050",
+      "points": [
+        [
+          694.4000000000001,
+          356.11199999999997
+        ],
+        [
+          712.5333333333333,
+          354.24
+        ],
+        [
+          730.6666666666667,
+          354.24
+        ],
+        [
+          748.8,
+          349.91999999999996
+        ],
+        [
+          766.9333333333334,
+          345.6
+        ],
+        [
+          785.0666666666666,
+          344.15999999999997
+        ],
+        [
+          803.2,
+          338.4
+        ],
+        [
+          821.3333333333333,
+          332.64
+        ],
+        [
+          839.4666666666667,
+          328.32000000000005
+        ],
+        [
+          857.5999999999999,
+          326.88
+        ],
+        [
+          875.7333333333333,
+          328.32000000000005
+        ],
+        [
+          893.8666666666666,
+          325.44
+        ],
+        [
+          912.0,
+          319.68
+        ],
+        [
+          930.1333333333334,
+          315.36
+        ],
+        [
+          948.2666666666667,
+          306.72
+        ],
+        [
+          966.4000000000001,
+          298.08
+        ],
+        [
+          984.5333333333333,
+          296.64000000000004
+        ],
+        [
+          1002.6666666666667,
+          296.64000000000004
+        ],
+        [
+          1020.8,
+          295.2
+        ],
+        [
+          1038.9333333333334,
+          290.88
+        ],
+        [
+          1057.0666666666666,
+          279.35999999999996
+        ],
+        [
+          1075.2,
+          263.52
+        ],
+        [
+          1093.3333333333333,
+          256.32000000000005
+        ],
+        [
+          1111.4666666666667,
+          249.12
+        ],
+        [
+          1129.6,
+          247.67999999999998
+        ],
+        [
+          1147.7333333333333,
+          246.24
+        ],
+        [
+          1165.8666666666666,
+          246.24
+        ],
+        [
+          1184.0,
+          247.392
+        ]
+      ],
+      "color": "#2F5FCD",
+      "width": 3.5,
+      "dash": true
+    },
+    {
+      "kind": "circle",
+      "name": "count_marker_1990",
+      "cx": 96.0,
+      "cy": 302.4,
+      "radius": 3.5,
+      "color": "#087F83"
+    },
+    {
+      "kind": "circle",
+      "name": "count_marker_2019",
+      "cx": 621.8666666666667,
+      "cy": 336.96000000000004,
+      "radius": 4.5,
+      "color": "#087F83"
+    },
+    {
+      "kind": "circle",
+      "name": "count_marker_2020",
+      "cx": 640.0,
+      "cy": 273.6,
+      "radius": 4.5,
+      "color": "#087F83"
+    },
+    {
+      "kind": "circle",
+      "name": "count_marker_2021",
+      "cx": 658.1333333333334,
+      "cy": 231.84,
+      "radius": 4.5,
+      "color": "#087F83"
+    },
+    {
+      "kind": "circle",
+      "name": "ASR_marker_2000",
+      "cx": 277.3333333333333,
+      "cy": 408.24,
+      "radius": 4,
+      "color": "#2F5FCD"
+    },
+    {
+      "kind": "circle",
+      "name": "ASR_marker_2023",
+      "cx": 694.4000000000001,
+      "cy": 356.11199999999997,
+      "radius": 4,
+      "color": "#2F5FCD"
+    },
+    {
+      "kind": "circle",
+      "name": "ASR_marker_2050",
+      "cx": 1184.0,
+      "cy": 247.392,
+      "radius": 4,
+      "color": "#2F5FCD"
+    }
+  ],
+  "annotations": [
+    {
+      "kind": "text",
+      "name": "title",
+      "text": "Смертность, связанная с сепсисом",
+      "left": 96,
+      "top": 28,
+      "width": 1100,
+      "height": 48,
+      "size": 32,
+      "color": "#20374C",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "count_axis_title",
+      "text": "Число смертей, млн",
+      "left": 96,
+      "top": 112,
+      "width": 420,
+      "height": 28,
+      "size": 19,
+      "color": "#087F83",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "rate_axis_title",
+      "text": "ASR на 100 000",
+      "left": 846,
+      "top": 112,
+      "width": 338,
+      "height": 28,
+      "size": 19,
+      "color": "#2F5FCD",
+      "bold": true,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "covid_label",
+      "text": "COVID-19, 2020–2021",
+      "left": 519.0666666666666,
+      "top": 145,
+      "width": 260,
+      "height": 24,
+      "size": 16,
+      "color": "#CE4848",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "kind": "text",
+      "name": "count_start",
+      "text": "16,5",
+      "left": 104.0,
+      "top": 268.4,
+      "width": 90,
+      "height": 30,
+      "size": 21,
+      "color": "#087F83",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "pre_covid_low",
+      "text": "14,1",
+      "left": 546.8666666666667,
+      "top": 350.96000000000004,
+      "width": 65,
+      "height": 30,
+      "size": 21,
+      "color": "#087F83",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "count_end",
+      "text": "21,4 млн (2021)",
+      "left": 678.1333333333334,
+      "top": 198.84,
+      "width": 215,
+      "height": 31,
+      "size": 21,
+      "color": "#087F83",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "line",
+      "name": "count_end_leader",
+      "points": [
+        [
+          662.1333333333334,
+          227.84
+        ],
+        [
+          675.1333333333334,
+          214.84
+        ]
+      ],
+      "color": "#087F83",
+      "width": 1,
+      "dash": false
+    },
+    {
+      "kind": "text",
+      "name": "rate_start",
+      "text": "9,15",
+      "left": 287.3333333333333,
+      "top": 422.24,
+      "width": 85,
+      "height": 30,
+      "size": 20,
+      "color": "#2F5FCD",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "rate_2023",
+      "text": "12,77 (2023)",
+      "left": 706.4000000000001,
+      "top": 366.11199999999997,
+      "width": 200,
+      "height": 30,
+      "size": 20,
+      "color": "#2F5FCD",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "rate_2050",
+      "text": "20,32 (2050)",
+      "left": 1000.0,
+      "top": 213.392,
+      "width": 175,
+      "height": 30,
+      "size": 20,
+      "color": "#2F5FCD",
+      "bold": true,
+      "align": "right"
+    },
+    {
+      "kind": "text",
+      "name": "forecast_label",
+      "text": "Прогноз 2024–2050",
+      "left": 845,
+      "top": 262,
+      "width": 270,
+      "height": 28,
+      "size": 19,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "count_caption",
+      "text": "Число смертей: GBD / Lancet, все возрасты",
+      "left": 96,
+      "top": 594,
+      "width": 535,
+      "height": 30,
+      "size": 17,
+      "color": "#087F83",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "rate_caption",
+      "text": "ASR: Critical Care, ≥20 лет, 79 стран",
+      "left": 662,
+      "top": 594,
+      "width": 555,
+      "height": 30,
+      "size": 17,
+      "color": "#2F5FCD",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "method_note",
+      "text": "У исследований разные определения и охват. Кривые не образуют единый ряд и не пересчитываются друг в друга.",
+      "left": 96,
+      "top": 637,
+      "width": 1120,
+      "height": 24,
+      "size": 12.5,
+      "color": "#65768A",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "digitization_note",
+      "text": "ASR: 2000, 2023 и 2050 — опубликованные числа; промежуточные точки приближённо восстановлены по рис. 2A.",
+      "left": 96,
+      "top": 661,
+      "width": 1120,
+      "height": 24,
+      "size": 12.5,
+      "color": "#65768A",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "kind": "text",
+      "name": "doi_note",
+      "text": "Источники: 10.1016/S2214-109X(25)00356-0, табл. S6; 10.1186/s13054-026-06024-7, рис. 2A.",
+      "left": 96,
+      "top": 686,
+      "width": 1120,
+      "height": 23,
+      "size": 12,
+      "color": "#65768A",
+      "bold": false,
+      "align": "left"
+    }
+  ]
+}

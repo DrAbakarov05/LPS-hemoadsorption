@@ -1,0 +1,56 @@
+{
+  "article_doi": "10.1186/s13054-026-06024-7",
+  "figure": "2A",
+  "figure_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13054-026-06024-7/MediaObjects/13054_2026_6024_Fig2_HTML.png",
+  "figure_sha256": "b003f56437d60c2dfdcffa4a4339718a1064fe2a85ca69b93de311bb3f6cc05e",
+  "retrieved_date": "2026-10-18",
+  "source_dimensions": [
+    1985,
+    2064
+  ],
+  "x_tick_pixels": [
+    418.5,
+    711.5,
+    1006.5,
+    1301.5,
+    1596.5,
+    1891.5
+  ],
+  "x_tick_years": [
+    2000,
+    2010,
+    2020,
+    2030,
+    2040,
+    2050
+  ],
+  "y_tick_pixels": [
+    1041.5,
+    849.5,
+    659.0,
+    466.5,
+    276.5
+  ],
+  "y_tick_rates": [
+    0,
+    20,
+    40,
+    60,
+    80
+  ],
+  "published_exact_anchors": {
+    "2000": 9.15,
+    "2023": 12.77,
+    "2050": 20.32
+  },
+  "intermediate_precision": "0.1 per 100000; approximate figure digitization, not raw data",
+  "forecast_starts": 2024,
+  "historical_ends": 2023,
+  "population": "adults age >=20; 79 countries; WHO Mortality Database",
+  "definition": "explicit sepsis underlying/primary cause; age-standardized rate",
+  "uncertainty": "No confidence or prediction ribbon is drawn. Digitization error has not been estimated as a statistical CI.",
+  "method": "Linear axis calibration; median blue contrast over a 5-pixel strip; weighted line-centre estimate; three published anchors override pixels.",
+  "supplement_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs13054-026-06024-7/MediaObjects/13054_2026_6024_MOESM1_ESM.docx",
+  "supplement_sha256": "6d38af2d6c81cfeb3ef38413b161d522dd5d9ddd6f7464b87d525d27f3260d62",
+  "annual_table_status": "The article and its 12-table supplement were inspected; no full annual central-rate series was provided."
+}

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="960pt" height="540pt" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-18T23:39:06.060809</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 960 540 
+L 960 0 
+L 0 0 
+L 0 540 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="covid_2020_2021">
+    <path d="M 473.2 135 
+L 500.4 135 
+L 500.4 405 
+L 473.2 405 
+L 473.2 135 
+z
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #ce4848; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="count_marker_1990">
+    <path d="M 72 224.175 
+C 72.696158 224.175 73.363897 224.451587 73.856155 224.943845 
+C 74.348413 225.436103 74.625 226.103842 74.625 226.8 
+C 74.625 227.496158 74.348413 228.163897 73.856155 228.656155 
+C 73.363897 229.148413 72.696158 229.425 72 229.425 
+C 71.303842 229.425 70.636103 229.148413 70.143845 228.656155 
+C 69.651587 228.163897 69.375 227.496158 69.375 226.8 
+C 69.375 226.103842 69.651587 225.436103 70.143845 224.943845 
+C 70.636103 224.451587 71.303842 224.175 72 224.175 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #087f83; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="count_marker_2019">
+    <path d="M 466.4 249.345 
+C 467.29506 249.345 468.153582 249.700611 468.786485 250.333515 
+C 469.419389 250.966418 469.775 251.82494 469.775 252.72 
+C 469.775 253.61506 469.419389 254.473582 468.786485 255.106485 
+C 468.153582 255.739389 467.29506 256.095 466.4 256.095 
+C 465.50494 256.095 464.646418 255.739389 464.013515 255.106485 
+C 463.380611 254.473582 463.025 253.61506 463.025 252.72 
+C 463.025 251.82494 463.380611 250.966418 464.013515 250.333515 
+C 464.646418 249.700611 465.50494 249.345 466.4 249.345 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #087f83; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="count_marker_2020">
+    <path d="M 480 201.825 
+C 480.89506 201.825 481.753582 202.180611 482.386485 202.813515 
+C 483.019389 203.446418 483.375 204.30494 483.375 205.2 
+C 483.375 206.09506 483.019389 206.953582 482.386485 207.586485 
+C 481.753582 208.219389 480.89506 208.575 480 208.575 
+C 479.10494 208.575 478.246418 208.219389 477.613515 207.586485 
+C 476.980611 206.953582 476.625 206.09506 476.625 205.2 
+C 476.625 204.30494 476.980611 203.446418 477.613515 202.813515 
+C 478.246418 202.180611 479.10494 201.825 480 201.825 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #087f83; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="count_marker_2021">
+    <path d="M 493.6 170.505 
+C 494.49506 170.505 495.353582 170.860611 495.986485 171.493515 
+C 496.619389 172.126418 496.975 172.98494 496.975 173.88 
+C 496.975 174.77506 496.619389 175.633582 495.986485 176.266485 
+C 495.353582 176.899389 494.49506 177.255 493.6 177.255 
+C 492.70494 177.255 491.846418 176.899389 491.213515 176.266485 
+C 490.580611 175.633582 490.225 174.77506 490.225 173.88 
+C 490.225 172.98494 490.580611 172.126418 491.213515 171.493515 
+C 491.846418 170.860611 492.70494 170.505 493.6 170.505 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #087f83; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="ASR_marker_2000">
+    <path d="M 208 303.18 
+C 208.795609 303.18 209.55874 303.496099 210.12132 304.05868 
+C 210.683901 304.62126 211 305.384391 211 306.18 
+C 211 306.975609 210.683901 307.73874 210.12132 308.30132 
+C 209.55874 308.863901 208.795609 309.18 208 309.18 
+C 207.204391 309.18 206.44126 308.863901 205.87868 308.30132 
+C 205.316099 307.73874 205 306.975609 205 306.18 
+C 205 305.384391 205.316099 304.62126 205.87868 304.05868 
+C 206.44126 303.496099 207.204391 303.18 208 303.18 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #2f5fcd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="ASR_marker_2023">
+    <path d="M 520.8 264.084 
+C 521.595609 264.084 522.35874 264.400099 522.92132 264.96268 
+C 523.483901 265.52526 523.8 266.288391 523.8 267.084 
+C 523.8 267.879609 523.483901 268.64274 522.92132 269.20532 
+C 522.35874 269.767901 521.595609 270.084 520.8 270.084 
+C 520.004391 270.084 519.24126 269.767901 518.67868 269.20532 
+C 518.116099 268.64274 517.8 267.879609 517.8 267.084 
+C 517.8 266.288391 518.116099 265.52526 518.67868 264.96268 
+C 519.24126 264.400099 520.004391 264.084 520.8 264.084 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #2f5fcd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="ASR_marker_2050">
+    <path d="M 888 182.544 
+C 888.795609 182.544 889.55874 182.860099 890.12132 183.42268 
+C 890.683901 183.98526 891 184.748391 891 185.544 
+C 891 186.339609 890.683901 187.10274 890.12132 187.66532 
+C 889.55874 188.227901 888.795609 188.544 888 188.544 
+C 887.204391 188.544 886.44126 188.227901 885.87868 187.66532 
+C 885.316099 187.10274 885 186.339609 885 185.544 
+C 885 184.748391 885.316099 183.98526 885.87868 183.42268 
+C 886.44126 182.860099 887.204391 182.544 888 182.544 
+z
+" clip-path="url(#pae949dfa27)" style="fill: #2f5fcd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="grid_0">
+    <path d="M 72 405 
+L 888 405 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="grid_5">
+    <path d="M 72 351 
+L 888 351 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="grid_10">
+    <path d="M 72 297 
+L 888 297 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="grid_15">
+    <path d="M 72 243 
+L 888 243 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="grid_20">
+    <path d="M 72 189 
+L 888 189 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="grid_25">
+    <path d="M 72 135 
+L 888 135 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #dde4eb; stroke-width: 0.4875; stroke-linecap: round"/>
+   </g>
+   <g id="left_axis">
+    <path d="M 72 135 
+L 72 405 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #087f83; stroke-width: 0.75; stroke-linecap: round"/>
+   </g>
+   <g id="right_axis">
+    <path d="M 888 135 
+L 888 405 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #2f5fcd; stroke-width: 0.75; stroke-linecap: round"/>
+   </g>
+   <g id="time_axis">
+    <path d="M 72 405 
+L 888 405 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.75; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1990">
+    <path d="M 72 405 
+L 72 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1991">
+    <path d="M 85.6 405 
+L 85.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1992">
+    <path d="M 99.2 405 
+L 99.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1993">
+    <path d="M 112.8 405 
+L 112.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1994">
+    <path d="M 126.4 405 
+L 126.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1995">
+    <path d="M 140 405 
+L 140 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1996">
+    <path d="M 153.6 405 
+L 153.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1997">
+    <path d="M 167.2 405 
+L 167.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1998">
+    <path d="M 180.8 405 
+L 180.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_1999">
+    <path d="M 194.4 405 
+L 194.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2000">
+    <path d="M 208 405 
+L 208 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2001">
+    <path d="M 221.6 405 
+L 221.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2002">
+    <path d="M 235.2 405 
+L 235.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2003">
+    <path d="M 248.8 405 
+L 248.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2004">
+    <path d="M 262.4 405 
+L 262.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2005">
+    <path d="M 276 405 
+L 276 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2006">
+    <path d="M 289.6 405 
+L 289.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2007">
+    <path d="M 303.2 405 
+L 303.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2008">
+    <path d="M 316.8 405 
+L 316.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2009">
+    <path d="M 330.4 405 
+L 330.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2010">
+    <path d="M 344 405 
+L 344 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2011">
+    <path d="M 357.6 405 
+L 357.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2012">
+    <path d="M 371.2 405 
+L 371.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2013">
+    <path d="M 384.8 405 
+L 384.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2014">
+    <path d="M 398.4 405 
+L 398.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2015">
+    <path d="M 412 405 
+L 412 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2016">
+    <path d="M 425.6 405 
+L 425.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2017">
+    <path d="M 439.2 405 
+L 439.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2018">
+    <path d="M 452.8 405 
+L 452.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2019">
+    <path d="M 466.4 405 
+L 466.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2020">
+    <path d="M 480 405 
+L 480 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2021">
+    <path d="M 493.6 405 
+L 493.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2022">
+    <path d="M 507.2 405 
+L 507.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2023">
+    <path d="M 520.8 405 
+L 520.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2024">
+    <path d="M 534.4 405 
+L 534.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2025">
+    <path d="M 548 405 
+L 548 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2026">
+    <path d="M 561.6 405 
+L 561.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2027">
+    <path d="M 575.2 405 
+L 575.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2028">
+    <path d="M 588.8 405 
+L 588.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2029">
+    <path d="M 602.4 405 
+L 602.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2030">
+    <path d="M 616 405 
+L 616 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2031">
+    <path d="M 629.6 405 
+L 629.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2032">
+    <path d="M 643.2 405 
+L 643.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2033">
+    <path d="M 656.8 405 
+L 656.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2034">
+    <path d="M 670.4 405 
+L 670.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2035">
+    <path d="M 684 405 
+L 684 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2036">
+    <path d="M 697.6 405 
+L 697.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2037">
+    <path d="M 711.2 405 
+L 711.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2038">
+    <path d="M 724.8 405 
+L 724.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2039">
+    <path d="M 738.4 405 
+L 738.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2040">
+    <path d="M 752 405 
+L 752 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2041">
+    <path d="M 765.6 405 
+L 765.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2042">
+    <path d="M 779.2 405 
+L 779.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2043">
+    <path d="M 792.8 405 
+L 792.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2044">
+    <path d="M 806.4 405 
+L 806.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2045">
+    <path d="M 820 405 
+L 820 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2046">
+    <path d="M 833.6 405 
+L 833.6 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2047">
+    <path d="M 847.2 405 
+L 847.2 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2048">
+    <path d="M 860.8 405 
+L 860.8 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2049">
+    <path d="M 874.4 405 
+L 874.4 407.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="year_tick_2050">
+    <path d="M 888 405 
+L 888 410.25 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #8b9bad; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="GBD_total_deaths_1990_2021">
+    <path d="M 72 226.8 
+L 85.6 226.8 
+L 99.2 226.8 
+L 112.8 225.72 
+L 126.4 223.56 
+L 140 224.64 
+L 153.6 224.64 
+L 167.2 224.64 
+L 180.8 224.64 
+L 194.4 224.64 
+L 208 224.64 
+L 221.6 225.72 
+L 235.2 225.72 
+L 248.8 225.72 
+L 262.4 227.88 
+L 276 228.96 
+L 289.6 232.2 
+L 303.2 234.36 
+L 316.8 235.44 
+L 330.4 238.68 
+L 344 240.84 
+L 357.6 241.92 
+L 371.2 245.16 
+L 384.8 246.24 
+L 398.4 247.32 
+L 412 248.4 
+L 425.6 249.48 
+L 439.2 250.56 
+L 452.8 251.64 
+L 466.4 252.72 
+L 480 205.2 
+L 493.6 173.88 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #087f83; stroke-width: 2.625; stroke-linecap: round"/>
+   </g>
+   <g id="ASR_historical_2000_2023">
+    <path d="M 208 306.18 
+L 221.6 300.24 
+L 235.2 294.84 
+L 248.8 300.24 
+L 262.4 299.16 
+L 276 292.68 
+L 289.6 292.68 
+L 303.2 291.6 
+L 316.8 290.52 
+L 330.4 290.52 
+L 344 290.52 
+L 357.6 287.28 
+L 371.2 286.2 
+L 384.8 285.12 
+L 398.4 281.88 
+L 412 280.8 
+L 425.6 291.6 
+L 439.2 282.96 
+L 452.8 282.96 
+L 466.4 281.88 
+L 480 292.68 
+L 493.6 270 
+L 507.2 264.6 
+L 520.8 267.084 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #2f5fcd; stroke-width: 2.625; stroke-linecap: round"/>
+   </g>
+   <g id="ASR_forecast_2024_2050">
+    <path d="M 520.8 267.084 
+L 534.4 265.68 
+L 548 265.68 
+L 561.6 262.44 
+L 575.2 259.2 
+L 588.8 258.12 
+L 602.4 253.8 
+L 616 249.48 
+L 629.6 246.24 
+L 643.2 245.16 
+L 656.8 246.24 
+L 670.4 244.08 
+L 684 239.76 
+L 697.6 236.52 
+L 711.2 230.04 
+L 724.8 223.56 
+L 738.4 222.48 
+L 752 222.48 
+L 765.6 221.4 
+L 779.2 218.16 
+L 792.8 209.52 
+L 806.4 197.64 
+L 820 192.24 
+L 833.6 186.84 
+L 847.2 185.76 
+L 860.8 184.68 
+L 874.4 184.68 
+L 888 185.544 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke-dasharray: 13.125,7.875; stroke-dashoffset: 0; stroke: #2f5fcd; stroke-width: 2.625"/>
+   </g>
+   <g id="left_tick_0">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="407.188008" transform="rotate(-0 63 407.188008)">0</text>
+   </g>
+   <g id="right_tick_0">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="407.188008" transform="rotate(-0 897.75 407.188008)">0</text>
+   </g>
+   <g id="left_tick_5">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="353.188008" transform="rotate(-0 63 353.188008)">5</text>
+   </g>
+   <g id="right_tick_5">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="353.188008" transform="rotate(-0 897.75 353.188008)">5</text>
+   </g>
+   <g id="left_tick_10">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="299.188008" transform="rotate(-0 63 299.188008)">10</text>
+   </g>
+   <g id="right_tick_10">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="299.188008" transform="rotate(-0 897.75 299.188008)">10</text>
+   </g>
+   <g id="left_tick_15">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="245.188008" transform="rotate(-0 63 245.188008)">15</text>
+   </g>
+   <g id="right_tick_15">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="245.188008" transform="rotate(-0 897.75 245.188008)">15</text>
+   </g>
+   <g id="left_tick_20">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="191.188008" transform="rotate(-0 63 191.188008)">20</text>
+   </g>
+   <g id="right_tick_20">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="191.188008" transform="rotate(-0 897.75 191.188008)">20</text>
+   </g>
+   <g id="left_tick_25">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f83" x="63" y="137.188008" transform="rotate(-0 63 137.188008)">25</text>
+   </g>
+   <g id="right_tick_25">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="897.75" y="137.188008" transform="rotate(-0 897.75 137.188008)">25</text>
+   </g>
+   <g id="year_label_1990">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="72" y="426.118125" transform="rotate(-0 72 426.118125)">1990</text>
+   </g>
+   <g id="year_label_1995">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="140" y="426.118125" transform="rotate(-0 140 426.118125)">1995</text>
+   </g>
+   <g id="year_label_2000">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="208" y="426.118125" transform="rotate(-0 208 426.118125)">2000</text>
+   </g>
+   <g id="year_label_2005">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="276" y="426.118125" transform="rotate(-0 276 426.118125)">2005</text>
+   </g>
+   <g id="year_label_2010">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="344" y="426.118125" transform="rotate(-0 344 426.118125)">2010</text>
+   </g>
+   <g id="year_label_2015">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="412" y="426.118125" transform="rotate(-0 412 426.118125)">2015</text>
+   </g>
+   <g id="year_label_2020">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="480" y="426.118125" transform="rotate(-0 480 426.118125)">2020</text>
+   </g>
+   <g id="year_label_2025">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="548" y="426.118125" transform="rotate(-0 548 426.118125)">2025</text>
+   </g>
+   <g id="year_label_2030">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="616" y="426.118125" transform="rotate(-0 616 426.118125)">2030</text>
+   </g>
+   <g id="year_label_2035">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="684" y="426.118125" transform="rotate(-0 684 426.118125)">2035</text>
+   </g>
+   <g id="year_label_2040">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="752" y="426.118125" transform="rotate(-0 752 426.118125)">2040</text>
+   </g>
+   <g id="year_label_2045">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="820" y="426.118125" transform="rotate(-0 820 426.118125)">2045</text>
+   </g>
+   <g id="year_label_2050">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #20374c" x="888" y="426.118125" transform="rotate(-0 888 426.118125)">2050</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pae949dfa27">
+   <rect x="0" y="0" width="960" height="540"/>
+  </clipPath>
+ </defs>
+</svg>

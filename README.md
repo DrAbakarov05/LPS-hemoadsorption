@@ -4,21 +4,23 @@
 
 **LPS-GEMA (ЛПС-ГЕМО)** и **Эфферон LPS** описываются как отдельные когорты. Сравнение эффективности картриджей между собой не выполняется.
 
-## Глобальные смерти, связанные с сепсисом: 1990–2021
+## Глобальное бремя сепсиса: две серии на оси 1990–2050
 
-Суммарное число смертей для всех возрастов: инфекционные и неинфекционные первоначальные причины объединены. Кривая и 95% интервал неопределённости построены по **всем 32 годовым строкам Table S6 приложения к Lancet Global Health (2025)**. Красным выделены **2020–2021 — годы COVID-19 в исследовании**; пандемия охарактеризована ВОЗ 11.03.2020. Конец ряда в 2021 году не означает конец пандемии.
+Совмещённый график с равномерной временной шкалой: **слева число смертей, млн (GBD / Lancet, 1990–2021)**, **справа возраст-стандартизованная смертность на 100 000 (Critical Care, взрослые ≥20 лет, 79 стран, 2000–2050)**. Прогноз 2024–2050 показан синим пунктиром. Бирюзовая линия заканчивается в 2021 году. Красная рамка выделяет годовые оценки 2020–2021.
 
-![Глобальные смерти, связанные с сепсисом, 1990–2021](figures/sepsis_global/output/sepsis_global_total_1990_2021_preview.png)
+![Сепсис: число смертей и ASR на общей равномерной оси времени](figures/sepsis_global/output/sepsis_combined_preview.png)
 
-[Прозрачный SVG с редактируемым текстом](figures/sepsis_global/output/sepsis_global_total_1990_2021.svg) · [Прозрачный PNG 7680 × 4320, 600 dpi](figures/sepsis_global/output/sepsis_global_total_1990_2021.png) · [SVG с текстом в контурах](figures/sepsis_global/output/sepsis_global_total_1990_2021_outlined.svg)
+[Чистый прозрачный PNG 8000 × 4500, 600 dpi](figures/sepsis_global/output/sepsis_combined_clean.png) · [Чистый прозрачный SVG](figures/sepsis_global/output/sepsis_combined_clean.svg) · [Редактируемый PowerPoint](figures/sepsis_global/output/sepsis_combined_editable.pptx)
 
-[Данные CSV](figures/sepsis_global/data/sepsis_deaths_1990_2021.csv) · [Код Python](figures/sepsis_global/plot_sepsis.py) · [Оформление](figures/sepsis_global/style.json) · [Полное описание, исходный фрагмент S6 и таблица всех лет](figures/sepsis_global/README.md)
+[PNG с подписями](figures/sepsis_global/output/sepsis_combined_annotated.png) · [SVG с подписями](figures/sepsis_global/output/sepsis_combined_annotated.svg) · [Отдельный слой подписей SVG](figures/sepsis_global/output/sepsis_annotations_only.svg)
 
-Ключевые опубликованные оценки: **1990 — 16,5 млн; 2019 — 14,1 млн; 2020 — 18,5 млн; 2021 — 21,4 млн**. Использован готовый общий итог авторов: сумма отдельно округлённых категорий может немного отличаться. Превью в README имеет белый фон; файлы для скачивания PNG/SVG — прозрачные.
+[Данные Lancet](figures/sepsis_global/data/sepsis_deaths_1990_2021.csv) · [Данные Critical Care](figures/sepsis_global/data/critical_care_asr_2000_2050.csv) · [Python-код](figures/sepsis_global/plot_sepsis.py) · [Оформление](figures/sepsis_global/style.json) · [Инструкция, источники, точность и редактирование](figures/sepsis_global/README.md)
 
-Источник: GBD 2021 Global Sepsis Collaborators. Lancet Glob Health. 2025;13:e2013–e2026. [doi:10.1016/S2214-109X(25)00356-0](https://doi.org/10.1016/S2214-109X(25)00356-0), Supplementary appendix 1, Table S6. Адаптация рисунка 3A: категории объединены, оформление изменено, добавлено выделение COVID-19.
+**Ряды имеют разные определения и охват.** ASR второй статьи не является числом всех связанных с сепсисом смертей, делённым на мировое население. В Lancet использованы все 32 опубликованные строки Table S6. Для ASR точные опубликованные опорные значения: **2000 — 9,15; 2023 — 12,77; 2050 — 20,32**. Другие 48 ежегодных точек ASR приближённо оцифрованы с Figure 2A и отмечены в CSV. Серые страновые линии и интервальные заливки убраны. Подписи остаются отдельными редактируемыми объектами в PPTX.
 
-Воспроизведение из корня репозитория: `python figures/sepsis_global/plot_sepsis.py` (те же зависимости requirements.txt). Все новые файлы изолированы в `figures/sepsis_global/`.
+Источники: [Lancet Global Health (2025), приложение 1, S6](https://doi.org/10.1016/S2214-109X(25)00356-0); [Critical Care (2026), Figure 2A](https://doi.org/10.1186/s13054-026-06024-7).
+
+Построение: `python figures/sepsis_global/plot_sepsis.py`. Код, CSV и все результаты находятся только в `figures/sepsis_global/`. Этот раздел заменяет прежний отдельный график 1990–2021.
 
 ## 28-дневная выживаемость: Каплан—Майер
 

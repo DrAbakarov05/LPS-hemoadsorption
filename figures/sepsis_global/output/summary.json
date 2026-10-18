@@ -1,80 +1,35 @@
 {
-  "years": [
+  "time_range": [
+    1990,
+    2050
+  ],
+  "time_scale": "linear; 1 year = 18.1333333333 px on 1280px canvas",
+  "absolute_series_years": [
     1990,
     2021
   ],
-  "annual_points": 32,
-  "data_source": "Supplementary appendix 1, Table S6, All Causes, Death Counts (95% UI)",
-  "covid_annual_highlight": [
-    2020,
-    2021
+  "rate_series_years": [
+    2000,
+    2050
   ],
-  "pandemic_characterized_by_who": "2020-03-11",
-  "global_emergency_ended": "2023-05-05",
-  "covid_note": "Highlight ends at last study year, not at the end of the pandemic.",
-  "png_dimensions": [
-    7680,
-    4320
+  "historical_rate_years": [
+    2000,
+    2023
+  ],
+  "forecast_rate_years": [
+    2024,
+    2050
+  ],
+  "left_axis_unit": "million deaths",
+  "right_axis_unit": "age-standardized deaths per 100000",
+  "rate_population": "adults >=20, 79 countries, explicit underlying sepsis cause",
+  "counts_population": "GBD worldwide, all ages, sepsis-related deaths",
+  "png_pixels": [
+    8000,
+    4500
   ],
   "png_dpi": 600,
-  "png_background": "transparent",
-  "svg_text_editable": true,
-  "key_years": {
-    "1990": {
-      "year": 1990,
-      "total_deaths": 16500000,
-      "total_ui95_lower": 15700000,
-      "total_ui95_upper": 17300000,
-      "infectious_deaths": 11800000,
-      "infectious_ui95_lower": 11100000,
-      "infectious_ui95_upper": 12500000,
-      "noninfectious_deaths": 4690000,
-      "noninfectious_ui95_lower": 4350000,
-      "noninfectious_ui95_upper": 5050000,
-      "sum_rounded_components": 16490000,
-      "total_minus_sum_rounded_components": 10000
-    },
-    "2019": {
-      "year": 2019,
-      "total_deaths": 14100000,
-      "total_ui95_lower": 13200000,
-      "total_ui95_upper": 15100000,
-      "infectious_deaths": 8340000,
-      "infectious_ui95_lower": 7720000,
-      "infectious_ui95_upper": 9010000,
-      "noninfectious_deaths": 5770000,
-      "noninfectious_ui95_lower": 5350000,
-      "noninfectious_ui95_upper": 6230000,
-      "sum_rounded_components": 14110000,
-      "total_minus_sum_rounded_components": -10000
-    },
-    "2020": {
-      "year": 2020,
-      "total_deaths": 18500000,
-      "total_ui95_lower": 17600000,
-      "total_ui95_upper": 19500000,
-      "infectious_deaths": 12700000,
-      "infectious_ui95_lower": 12000000,
-      "infectious_ui95_upper": 13400000,
-      "noninfectious_deaths": 5780000,
-      "noninfectious_ui95_lower": 5330000,
-      "noninfectious_ui95_upper": 6280000,
-      "sum_rounded_components": 18480000,
-      "total_minus_sum_rounded_components": 20000
-    },
-    "2021": {
-      "year": 2021,
-      "total_deaths": 21400000,
-      "total_ui95_lower": 20300000,
-      "total_ui95_upper": 22500000,
-      "infectious_deaths": 15500000,
-      "infectious_ui95_lower": 14700000,
-      "infectious_ui95_upper": 16400000,
-      "noninfectious_deaths": 5810000,
-      "noninfectious_ui95_lower": 5400000,
-      "noninfectious_ui95_upper": 6250000,
-      "sum_rounded_components": 21310000,
-      "total_minus_sum_rounded_components": 90000
-    }
-  }
+  "background": "transparent",
+  "approximation": "48 intermediate annual ASR points digitized; 3 published anchors exact to reported precision.",
+  "uncertainty_ribbons": "omitted by design; source uncertainty is not zero"
 }

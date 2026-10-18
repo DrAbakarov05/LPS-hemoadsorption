@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="960pt" height="540pt" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-18T23:39:07.132144</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 960 540 
+L 960 0 
+L 0 0 
+L 0 540 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="count_end_leader">
+    <path d="M 496.6 170.88 
+L 506.35 161.13 
+" clip-path="url(#pae949dfa27)" style="fill: none; stroke: #087f83; stroke-width: 0.75; stroke-linecap: round"/>
+   </g>
+   <g id="title">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #20374c" x="72" y="40.73625" transform="rotate(-0 72 40.73625)">Смертность, связанная с сепсисом</text>
+   </g>
+   <g id="count_axis_title">
+    <text style="font-weight: 700; font-size: 14.25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f83" x="72" y="96.390117" transform="rotate(-0 72 96.390117)">Число смертей, млн</text>
+   </g>
+   <g id="rate_axis_title">
+    <text style="font-weight: 700; font-size: 14.25px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #2f5fcd" x="888" y="96.327773" transform="rotate(-0 888 96.327773)">ASR на 100 000</text>
+   </g>
+   <g id="covid_label">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ce4848" x="486.8" y="119.368125" transform="rotate(-0 486.8 119.368125)">COVID-19, 2020–2021</text>
+   </g>
+   <g id="count_start">
+    <text style="font-weight: 700; font-size: 15.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f83" x="78" y="214.767539" transform="rotate(-0 78 214.767539)">16,5</text>
+   </g>
+   <g id="pre_covid_low">
+    <text style="font-weight: 700; font-size: 15.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f83" x="410.15" y="276.687539" transform="rotate(-0 410.15 276.687539)">14,1</text>
+   </g>
+   <g id="count_end">
+    <text style="font-weight: 700; font-size: 15.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f83" x="508.6" y="162.597539" transform="rotate(-0 508.6 162.597539)">21,4 млн (2021)</text>
+   </g>
+   <g id="rate_start">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="215.5" y="329.577656" transform="rotate(-0 215.5 329.577656)">9,15</text>
+   </g>
+   <g id="rate_2023">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="529.8" y="287.481656" transform="rotate(-0 529.8 287.481656)">12,77 (2023)</text>
+   </g>
+   <g id="rate_2050">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #2f5fcd" x="881.25" y="172.941656" transform="rotate(-0 881.25 172.941656)">20,32 (2050)</text>
+   </g>
+   <g id="forecast_label">
+    <text style="font-size: 14.25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="633.75" y="208.827773" transform="rotate(-0 633.75 208.827773)">Прогноз 2024–2050</text>
+   </g>
+   <g id="count_caption">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f83" x="72" y="456.688008" transform="rotate(-0 72 456.688008)">Число смертей: GBD / Lancet, все возрасты</text>
+   </g>
+   <g id="rate_caption">
+    <text style="font-size: 12.75px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2f5fcd" x="496.5" y="456.688008" transform="rotate(-0 496.5 456.688008)">ASR: Critical Care, ≥20 лет, 79 стран</text>
+   </g>
+   <g id="method_note">
+    <text style="font-size: 9.375px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65768a" x="72" y="486.533203" transform="rotate(-0 72 486.533203)">У исследований разные определения и охват. Кривые не образуют единый ряд и не пересчитываются друг в друга.</text>
+   </g>
+   <g id="digitization_note">
+    <text style="font-size: 9.375px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65768a" x="72" y="504.533203" transform="rotate(-0 72 504.533203)">ASR: 2000, 2023 и 2050 — опубликованные числа; промежуточные точки приближённо восстановлены по рис. 2A.</text>
+   </g>
+   <g id="doi_note">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #65768a" x="72" y="522.991875" transform="rotate(-0 72 522.991875)">Источники: 10.1016/S2214-109X(25)00356-0, табл. S6; 10.1186/s13054-026-06024-7, рис. 2A.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pae949dfa27">
+   <rect x="0" y="0" width="960" height="540"/>
+  </clipPath>
+ </defs>
+</svg>
