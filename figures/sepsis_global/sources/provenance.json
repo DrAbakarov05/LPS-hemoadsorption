@@ -1,0 +1,20 @@
+{
+  "article_doi": "10.1016/S2214-109X(25)00356-0",
+  "article_url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00356-0/fulltext",
+  "appendix_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2214109X25003560-mmc1.pdf?download=true",
+  "retrieved_date": "2026-10-18",
+  "appendix_sha256": "bdc76ec7bdf5b52aae3608ecc30c4f84083d135d31ca4a19eeb31369a5eb8f2b",
+  "table": "Supplementary appendix 1, Table S6",
+  "pdf_page_1_based": 105,
+  "printed_page_number": 106,
+  "extraction": "pdftotext -layout; unmodified Table S6 excerpt; parse integer death-count triples with extract_table_s6.py",
+  "precision": "Published model estimates rounded by the authors (three significant digits), not individual observed deaths.",
+  "aggregation": "Use published All Causes total and its UI. Components retained for audit, never add their UI limits.",
+  "who_source": "https://www.who.int/europe/emergencies/situations/covid-19/",
+  "pandemic_characterized": "2020-03-11",
+  "pheic_period": [
+    "2020-01-30",
+    "2023-05-05"
+  ],
+  "covid_shading": "Annual estimates for 2020 and 2021, represented by year bins 2019.5 to 2021.5. This does not define daily pandemic boundaries."
+}
